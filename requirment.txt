@@ -1,5 +1,5 @@
 streamlit
-openai
+openai>=1.0.0   # <-- the new client that exposes OpenAI()
 pypdf
-docx
-python-dotenv   # optional, if you want to use .env
+python-docx
+python-dotenv   # optional, only if you want .env support

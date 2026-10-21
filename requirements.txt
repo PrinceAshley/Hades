@@ -1,0 +1,5 @@
+streamlit>=1.13.0
+openai>=1.0.0
+pypdf
+python-docx
+python-dotenv   # optional – only if you use .env

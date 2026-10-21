@@ -1,0 +1,5 @@
+streamlit
+openai
+pypdf
+docx
+python-dotenv   # optional, if you want to use .env

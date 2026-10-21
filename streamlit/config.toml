@@ -1,0 +1,9 @@
+[theme]
+primaryColor="#1c4f91"
+backgroundColor="#ffffff"
+secondaryBackgroundColor="#f0f2f6"
+textColor="#262730"
+font="sans serif"
+
+[global]
+appMode = "debug"   # set to "production" for final deployment
